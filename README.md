@@ -1,6 +1,7 @@
 <div align="center">
 
-![logo](./assets/icon.svg)
+![image](https://github.com/user-attachments/assets/b2a801d3-4739-41d4-beb1-04d78d909125)
+
 
 ---
   <h1>WeMod Patcher</h1>
